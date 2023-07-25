@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alessiofrittoli
 - 👀 I’m interested in new ways that simplify the web development.
-- 🌱 I’m currently learning Node.js.
 - 📫 How to reach me: info@alessiofrittoli.it | https://alessiofrittoli.it/
 
 <!---
